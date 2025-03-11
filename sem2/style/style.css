@@ -1,0 +1,15 @@
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        #reviewsContainer {
+            margin-top: 20px;
+        }
+
+        .review {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
